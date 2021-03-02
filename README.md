@@ -1,2 +1,4 @@
-# h8urrr-durr-password-generaotr
-made it cuz bored
+# 3 Hour Password Generator
+built in 3 hours and isn't the most efficient
+
+
